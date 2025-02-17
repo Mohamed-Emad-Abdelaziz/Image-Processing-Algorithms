@@ -56,5 +56,5 @@ Resizes the image based on a user-provided scale factor by mapping the coordinat
 
 1. **Clone the Repository:**
  ```bash
- git clone https://github.com/YourUsername/YourRepo.git
+ git clone https://github.com/Mohamed-Emad-Abdelaziz/Image-Processing-Algorithms.git
 
