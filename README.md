@@ -1,6 +1,6 @@
 # Image-Processing-Algorithms
 
-![Project Image]([https://example.com/your-image.png](https://files.oaiusercontent.com/file-XjJTuiR5DD5of2o5kDMG1h?se=2025-02-17T20%3A07%3A41Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D112f1999-6cc7-4dbe-83cb-40d5918173af.webp&sig=Ouiv6oZMdvj%2BKsW%2BS3cYmKZoU/y1uQ8t36GsRfh3FAQ%3D))
+![Alt text]([https://example.com/your-image.png](https://files.oaiusercontent.com/file-XjJTuiR5DD5of2o5kDMG1h?se=2025-02-17T20%3A07%3A41Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D112f1999-6cc7-4dbe-83cb-40d5918173af.webp&sig=Ouiv6oZMdvj%2BKsW%2BS3cYmKZoU/y1uQ8t36GsRfh3FAQ%3D))
 
 ## Overview
 
